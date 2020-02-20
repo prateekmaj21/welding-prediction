@@ -1,0 +1,21 @@
+SL. NO,Amps,Volts,Speed (mm/s),Heat Input (kJ/mm),Weld_Quality
+1,80,28,2.13,1.05,Lack of Fusion
+2,105,28,2.63,1.12,Good Weld
+3,80,18,2.13,0.68,Lack of Fusion
+4,105,30,3.03,1.04,Good Weld
+5,105,16,1.85,0.91,Lack of Fusion
+6,80,28,2.04,1.1,Good Weld
+7,105,23,2.13,1.14,Good Weld
+8,105,23,2,1.21,Good Weld
+9,68,23,1.35,1.16,Lack of Fusion
+10,105,23,2.5,0.97,Good Weld
+11,82,25,2,0.98,Lack of Fusion
+12,138,36,1.61,3.08,Burn Through
+13,130,28,1.39,2.62,Burn Through
+14,130,28,1.79,2.52,Burn Through
+15,130,28,1.45,2.04,Burn Through
+16,105,23,2.17,1.11,Good Weld
+17,154,26,2.27,1.76,Burn Through
+18,80,18,1.9,0.76,Lack of Fusion
+19,105,23,2.5,0.97,Good Weld
+20,105,23,2.27,1.06,Good Weld
